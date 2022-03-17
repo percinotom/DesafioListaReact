@@ -2,7 +2,7 @@
 
 ## Necessario ter o gerenciador de pacotes npm e o nodejs
 
-Para abrir o projeto basta ir em um terminal, como o cmd ou powershell, no diretório do projeto baixado e tendo já o gerenciador de pacotes npm e o nodejs em sua máquina, dê o comando npm start, espere um pouco e um localhost abrairá em seu browser com a aplicação.
+Para abrir o projeto basta ir em um terminal, como o cmd ou powershell, no diretório do projeto baixado e tendo já o gerenciador de pacotes npm e o nodejs em sua máquina, dê o comando npm start, espere um pouco e um localhost abrirá em seu browser com a aplicação.
 
 ## Desafios/Problemas no projeto
 
